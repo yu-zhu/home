@@ -1,0 +1,100 @@
+.header{
+	width: 100%;
+	height: 3rem;
+	background: #CCE8CF;
+	text-align: center;
+    line-height: 3rem;
+	font-size: 1.125rem;
+}
+	
+.banner{
+	width: 95%;
+	margin: 0 auto;
+	padding: 0.625rem 0;
+}
+.banner-img{
+	width: 100%;
+	height: 10.625rem;
+	background: #D8D8D8;
+	border-radius: 0.625rem;
+}
+
+	
+.Explosion{
+	width: 100%;
+	margin: 0 auto;
+}
+.Explosion-title{
+	width: 95%;
+    margin: 0 auto;
+	display: flex;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}	
+.Explosion-title-style{
+	width: 0.625rem;
+    height: 1.875rem;
+    background: #CCE8CF;
+    display: block;
+}
+.Explosion-title-text{
+	font-size: 1.375rem;
+	padding-left: 0.625rem;
+}
+.Explosion-img{
+	margin-left: 10px;
+	overflow: auto;
+	white-space: nowrap;
+}
+.merchant-padding{
+	padding-bottom: 6.25rem;
+}
+.Explosion-img-li{
+	width: 11.25rem;
+    height: 15rem;
+    background: #D8D8D8;
+    border-radius: 10px;
+	margin-right: 10px;
+	/* float: left; */
+	display: inline-block;
+}
+
+
+.merchant{
+	margin-right: 10px;
+	display: inline-block;
+}
+.merchant-li{
+	display: flex;
+	padding-bottom: 0.9375rem;
+}
+.merchant-img{
+	width: 3.125rem;
+	height: 3.125rem;
+	background: #D8D8D8;
+	border-radius: 10px;
+}
+.merchant-description{
+	padding-left: 0.625rem;
+}
+
+
+.tabber{
+	width: 100%;
+    height: 6.125rem;
+    background: #f7f7f7;
+	display: flex;
+    justify-content: space-around;
+	position: fixed;
+	bottom: 0;
+}
+.tabber-li{
+	padding: 20px;
+}
+.icon-shouye{
+	font-size: 30px;
+    padding: 0 5px;
+}
+.tabber-li-text{
+	padding-top: 10px;
+}
